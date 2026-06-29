@@ -1,4 +1,4 @@
-# Czochralski crystal growth
+# Czochralski Crystal Growth Process
 
 
 ## Software
