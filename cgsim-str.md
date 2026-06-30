@@ -589,16 +589,16 @@ Against a backdrop of strong demand for high-quality substrates in power electro
 - STR Group LinkedIn: https://www.linkedin.com/company/str-group-semiconductor-technology-research/
 
 ### Key Published Validations and Applications
-- Kalaev, V.V. et al., "Calculation of bulk defects in CZ Si growth: impact of melt turbulent fluctuations," *J. Crystal Growth*, 250/1-2 (2003) pp. 203-208.
-- Lukanin, D.P. et al., "Advances in the simulation of heat transfer and prediction of the melt-crystal interface shape in silicon CZ growth," *J. Crystal Growth*, 266/1-3 (2004) pp. 20-27.
-- Wu, B. et al., *J. Crystal Growth*, 310/7-9 (2008) pp. 2178-2184 (directional solidification).
-- Teng, Y.Y. et al., *J. Crystal Growth*, 312/8 (2010) pp. 1282-1290 (carbon segregation; 10% reduction in crystal carbon via CGSim-guided optimisation).
-- Li, Z. and Smirnov, A., "Application of computer modeling to pulling rate and productivity of Czochralski pullers in PV Si crystal growth," *J. Crystal Growth*, 611 (2023) 127178.
+- Kalaev, V.V. et al., "Calculation of bulk defects in CZ Si growth: impact of melt turbulent fluctuations," [*J. Crystal Growth*, 250/1-2 (2003) pp. 203-208](https://doi.org/10.1016/S0022-0248(02)02240-6).
+- Lukanin, D.P. et al., "Advances in the simulation of heat transfer and prediction of the melt-crystal interface shape in silicon CZ growth," [*J. Crystal Growth*, 266/1-3 (2004) pp. 20-27](https://doi.org/10.1016/j.jcrysgro.2004.02.025).
+- Wu, B. et al., "Bulk multicrystalline silicon growth for photovoltaic (PV) application", [*J. Crystal Growth*, 310/7-9 (2008) pp. 2178-2184](https://doi.org/10.1016/j.jcrysgro.2007.11.194).
+- Teng, Y.Y. et al., "The carbon distribution in multicrystalline silicon ingots grown using the directional solidification process", [*J. Crystal Growth*, 312/8 (2010) pp. 1282-1290](https://doi.org/10.1016/j.jcrysgro.2009.11.020).
+- Li, Z. and Smirnov, A., "Application of computer modeling to pulling rate and productivity of Czochralski pullers in PV Si crystal growth," [*J. Crystal Growth*, 611 (2023) 127178](https://doi.org/10.1016/j.jcrysgro.2023.127178).
 
 ### Competitive Context
-- Kirpo, M. et al., "Global simulation of the Czochralski silicon crystal growth in ANSYS FLUENT," *J. Crystal Growth* (2013). [Comparison of CGSim, CrysMAS/STHAMAS, FEMAG-CZ]
-- Rost, H.-J. et al., "Validation, verification, and benchmarking of crystal growth simulations," *J. Crystal Growth* (2016).
-- Plötner, M. et al., "Development and validation of a thermal simulation for the Czochralski crystal growth process using model experiments," *J. Crystal Growth* (2022). [References CGSim, CrysMAS, FEMAG]
+- Kirpo, M. et al., "Global simulation of the Czochralski silicon crystal growth in ANSYS FLUENT," [*J. Crystal Growth* 371 (2013) pp. 60-69](https://doi.org/10.1016/j.jcrysgro.2013.02.005). [Comparison of CGSim, CrysMAS/STHAMAS, FEMAG-CZ]
+- Rost, H.-J. et al., "Validation, verification, and benchmarking of crystal growth simulations," [*J. Crystal Growth* 474 (2016) pp. 171-177](https://doi.org/10.1016/j.jcrysgro.2016.12.091).
+- Plötner, M. et al., "Development and validation of a thermal simulation for the Czochralski crystal growth process using model experiments," [*J. Crystal Growth* 593 (2022) 126750](https://doi.org/10.1016/j.jcrysgro.2022.126750). [References CGSim, CrysMAS, FEMAG]
 
 ### Patent Citations (CGSim as Simulation Tool)
 - US Patent 9,822,468 (SiC single crystal production; CGSim STR Japan Ver. 14.1 cited for ΔT simulation in TSSG)
