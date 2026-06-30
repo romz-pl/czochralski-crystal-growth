@@ -647,7 +647,7 @@ As of 2026, CrysMAS remains an active, continuously applied simulation tool at I
 
 - J. Friedrich, G. Müller. "Erlangen — An Important Center of Crystal Growth and Epitaxy: Major Scientific Results and Technological Solutions of the Last Four Decades." [*Crystal Research and Technology*, 55, 1900053 (2020)](https://doi.org/10.1002/crat.201900053).
 
-- K. Dadzis, et al. "Validation, Verification, and Benchmarking of Crystal Growth Simulations." [*Journal of Crystal Growth*, 474, 14–26 (2016)](https://doi.org/10.1016/j.jcrysgro.2016.12.038).
+- K. Dadzis, et al. "Validation, Verification, and Benchmarking of Crystal Growth Simulations." [*Journal of Crystal Growth*, 474, 14–26 (2016)](https://doi.org/10.1016/j.jcrysgro.2016.12.091).
 
 - A. Enders-Seidlitz et al. "Development and Validation of a Thermal Simulation for the Czochralski Crystal Growth Process Using Model Experiments." [*Journal of Crystal Growth*, 593, 126757 (2022)](https://doi.org/DOI: 10.1016/j.jcrysgro.2022.126757).
 
