@@ -6,3 +6,6 @@
 + [CGSim from the STR Group](./cgsim-str.md)
 + [CrysMAS from Fraunhofer IISB (Germany)](./crysmas-fraunhofer.md)
 + [FEMAG / FEMAG-CZ software from FEMAGSoft S.A. (Belgium)](./femagsoft.md)
+
+## References
++ [Books](./refs-books.md)
