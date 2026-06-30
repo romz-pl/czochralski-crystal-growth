@@ -649,7 +649,7 @@ As of 2026, CrysMAS remains an active, continuously applied simulation tool at I
 
 - K. Dadzis, et al. "Validation, Verification, and Benchmarking of Crystal Growth Simulations." [*Journal of Crystal Growth*, 474, 14–26 (2016)](https://doi.org/10.1016/j.jcrysgro.2016.12.091).
 
-- A. Enders-Seidlitz et al. "Development and Validation of a Thermal Simulation for the Czochralski Crystal Growth Process Using Model Experiments." [*Journal of Crystal Growth*, 593, 126757 (2022)](https://doi.org/DOI: 10.1016/j.jcrysgro.2022.126757).
+- A. Enders-Seidlitz et al. "Development and Validation of a Thermal Simulation for the Czochralski Crystal Growth Process Using Model Experiments." [*Journal of Crystal Growth*, 593, 126757 (2022)](https://doi.org/10.1016/j.jcrysgro.2022.126757).
 
 - M. Hainke, T. Jung, J. Friedrich, B. Fischer, M. Metzger, G. Müller. "Equipment and Process Modelling of Industrial Crystal Growth Using the Finite Volume Codes CrysVUn and STHAMAS." In: [*Progress in Industrial Mathematics at ECMI 2000*, Mathematics in Industry vol. 1, Springer (2002)](https://doi.org/10.1007/978-3-662-04784-2_29).
 
