@@ -18,3 +18,7 @@
 + [PhD Theses published between 1990 and 1999](./doc/phd-theses-1990-1999.md)
 + [PhD Theses at Fraunhofer IISB in Erlangen, Germany](./doc/phd-theses-fraunhofer-erlangen.md)
 + [PhD Theses at Institute for Crystal Growth IKZ in Berlin, Germany](./doc/phd-theses-ikz.md)
+
+
+## References for Software
++ [CrysVUn from Erlangen](./doc/reference-crysvun.md)
