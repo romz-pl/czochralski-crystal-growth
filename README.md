@@ -7,7 +7,7 @@
 + [CrysMAS from Fraunhofer IISB (Germany)](./doc/crysmas-fraunhofer.md)
 + [FEMAG / FEMAG-CZ software from FEMAGSoft S.A. (Belgium)](./doc/femagsoft.md)
 
-## References
+## References on Crystal Growth Modeling and Simulation
 + [Books](./doc/refs-books.md)
 + [PhD Theses published after 2020](./doc/phd-theses-after-2020.md)
 + [PhD Theses published between 2010 and 2019](./doc/phd-theses-2010-2019.md)
