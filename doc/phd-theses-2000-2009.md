@@ -1,4 +1,4 @@
-# Ph.D. Theses on Crystal Growth Modeling and Simulation (2000–2009)
+# Ph.D. Theses published between 2000 and 2009
 
 *Compiled from citations in journal articles, review papers, conference proceedings, and thesis-aggregation databases identified via web search. Because specialized dissertation indexes (e.g., ProQuest Dissertations & Theses Global, EThOS, DART‑Europe) are not directly searchable through the tools used to compile this list, it should be treated as a solid **starting point** rather than a literally complete/exhaustive record. Entries are grouped by growth method/topic and given in author-date-title format. English translations of German-language titles are provided in brackets.*
 
