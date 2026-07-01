@@ -2,10 +2,10 @@
 
 
 ## Software
-+ [Software for Modeling the Czochralski Crystal Growth Process](./software-overview.md)
-+ [CGSim from the STR Group](./cgsim-str.md)
-+ [CrysMAS from Fraunhofer IISB (Germany)](./crysmas-fraunhofer.md)
-+ [FEMAG / FEMAG-CZ software from FEMAGSoft S.A. (Belgium)](./femagsoft.md)
++ [Software for Modeling the Czochralski Crystal Growth Process](./doc/software-overview.md)
++ [CGSim from the STR Group](./doc/cgsim-str.md)
++ [CrysMAS from Fraunhofer IISB (Germany)](./doc/crysmas-fraunhofer.md)
++ [FEMAG / FEMAG-CZ software from FEMAGSoft S.A. (Belgium)](./doc/femagsoft.md)
 
 ## References
-+ [Books](./refs-books.md)
++ [Books](./doc/refs-books.md)
