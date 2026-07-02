@@ -29,3 +29,7 @@
 ## References for Software Applications
 + [CrysVUn from Erlangen](./doc/applications-crysvun.md)
 + [CGSim from the STR Group](./doc/applications-cgsim.md)
+
+
+## List of user/clients
++ [CGSim from the STR Group](./doc/users-cgsim.md)
