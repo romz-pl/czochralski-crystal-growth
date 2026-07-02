@@ -31,5 +31,5 @@
 + [CGSim from the STR Group](./doc/applications-cgsim.md)
 
 
-## List of user/clients
+## Customer List
 + [CGSim from the STR Group](./doc/users-cgsim.md)
