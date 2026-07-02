@@ -23,6 +23,7 @@
 ## References for Software Numerical Models
 + [CrysVUn from Erlangen](./doc/reference-crysvun.md)
 + [CrysMAS from Erlangen](./doc/reference-crysmas.md)
++ [CGSim from the STR Group](./doc/reference-cgsim.md)
 
 
 ## References for Software Applications
