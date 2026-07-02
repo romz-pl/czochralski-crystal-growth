@@ -28,3 +28,4 @@
 
 ## References for Software Applications
 + [CrysVUn from Erlangen](./doc/applications-crysvun.md)
++ [CGSim from the STR Group](./doc/applications-cgsim.md)
