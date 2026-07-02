@@ -20,6 +20,10 @@
 + [PhD Theses at Institute for Crystal Growth IKZ in Berlin, Germany](./doc/phd-theses-ikz.md)
 
 
-## References for Software
+## References for Software Numerical Models
 + [CrysVUn from Erlangen](./doc/reference-crysvun.md)
 + [CrysMAS from Erlangen](./doc/reference-crysmas.md)
+
+
+## References for Software Applications
++ [CrysVUn from Erlangen](./doc/applications-crysvun.md)
